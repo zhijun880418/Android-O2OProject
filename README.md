@@ -19,9 +19,9 @@ UI与流程示例：
 
 体重动态输入，并实时显示在曲线上
 
-![qq 20141231145232](http://d.pcs.baidu.com/thumbnail/51098811d63db084acb00b67aa4015c6?fid=2401028482-250528-419644106692651&time=1421924400&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-N0URKuqrcFk8%2FCyA5EjoEVt1A9g%3D&rt=sh&expires=2h&r=199199886&sharesign=unknown&size=c710_u500&quality=100)
+![qq 20141231145232](http://images.cnblogs.com/cnblogs_com/melonrice/646682/o_2.png)
 
-![qq 20141231145232](http://d.pcs.baidu.com/thumbnail/b87f9e0c0beac12ba839fa8cfab8ce41?fid=2401028482-250528-545640638196077&time=1421924400&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-xSXMz7XzmDPQHy5Sq1DoHzvBLpg%3D&rt=sh&expires=2h&r=687047860&sharesign=unknown&size=c710_u500&quality=100)
+![qq 20141231145232](http://images.cnblogs.com/cnblogs_com/melonrice/646682/o_3.png)
 
 `下单`
 点击订购菜单，listview展示套餐列表
