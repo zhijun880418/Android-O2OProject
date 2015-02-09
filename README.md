@@ -15,7 +15,7 @@ Android端主要有网上订餐、查看与管理订单等线上流程，以及�
 UI与流程示例：
 `首页`:
 界面完善ing，包括已订购的菜品图片展示，用户的体重曲线记录
-![qq 20141231145232](http://d.pcs.baidu.com/thumbnail/591f10b1834cd092739e4f7185af26d1?fid=2401028482-250528-736845379870398&time=1421924400&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-LITn8UU%2FAEleCLlq%2B1rBp30PF0U%3D&rt=sh&expires=2h&r=569839469&sharesign=unknown&size=c710_u500&quality=100)
+![qq 20141231145232](http://images.cnblogs.com/cnblogs_com/melonrice/646682/o_1.png)
 
 体重动态输入，并实时显示在曲线上
 
